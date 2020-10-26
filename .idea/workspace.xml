@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="673c7ebd-c7d8-47fd-a740-6c61cc54c508" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jOSBW2qzW8eepWn9qylKETBF3u" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot_study" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.my" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ideaProjects\Mybatis_study\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MybatisTest.select_vague">
+    <configuration name="MybatisTest.add_func" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.test" />
+      <option name="MAIN_CLASS_NAME" value="com.my.test.MybatisTest" />
+      <option name="METHOD_NAME" value="add_func" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.delete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.test" />
+      <option name="MAIN_CLASS_NAME" value="com.my.test.MybatisTest" />
+      <option name="METHOD_NAME" value="delete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.select_stu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.test" />
+      <option name="MAIN_CLASS_NAME" value="com.my.test.MybatisTest" />
+      <option name="METHOD_NAME" value="select_stu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.select_vague" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.test" />
+      <option name="MAIN_CLASS_NAME" value="com.my.test.MybatisTest" />
+      <option name="METHOD_NAME" value="select_vague" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.update" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyBatis_Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.my.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.my.test" />
+      <option name="MAIN_CLASS_NAME" value="com.my.test.MybatisTest" />
+      <option name="METHOD_NAME" value="update" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MybatisTest.select_vague" />
+        <item itemvalue="JUnit.MybatisTest.update" />
+        <item itemvalue="JUnit.MybatisTest.select_stu" />
+        <item itemvalue="JUnit.MybatisTest.add_func" />
+        <item itemvalue="JUnit.MybatisTest.delete" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="673c7ebd-c7d8-47fd-a740-6c61cc54c508" name="Default Changelist" comment="" />
+      <created>1603673509219</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603673509219</updated>
+      <workItem from="1603673510438" duration="10672000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="64" key="#SQL_Dialects" timestamp="1603675485092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="379" y="64" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1603675485092" />
+    <state x="395" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603677666545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="100" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603677666545" />
+    <state x="1014" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1603678312262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1014" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603678312262" />
+    <state x="581" y="281" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1603685329087">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="281" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1603685329087" />
+    <state x="939" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603673754554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="939" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603673754554" />
+    <state x="781" y="198" key="FileChooserDialogImpl" timestamp="1603679799854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="781" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603679799854" />
+    <state width="1250" height="196" key="GridCell.Tab.0.bottom" timestamp="1603679209629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603679209629" />
+    <state width="1250" height="196" key="GridCell.Tab.0.center" timestamp="1603679209629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603679209629" />
+    <state width="1250" height="196" key="GridCell.Tab.0.left" timestamp="1603679209629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603679209629" />
+    <state width="1250" height="196" key="GridCell.Tab.0.right" timestamp="1603679209629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1250" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603679209629" />
+    <state x="356" y="213" key="new project wizard" timestamp="1603680200196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="213" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603680200196" />
+  </component>
+</project>
